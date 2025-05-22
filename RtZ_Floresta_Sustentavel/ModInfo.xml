@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="RtZ_Floresta_Sustentavel" />
+	<DisplayName value="RtZ Floresta Sustentavel" />
+	<Description value="Remove quase completamente as sementes das árvores, fazendo com que as árvores cortadas voltem a crescer após um atraso" />
+	<Author value="Marcos" />
+	<Version value="1.0.5" />
+	<Website value="" />
+</xml>

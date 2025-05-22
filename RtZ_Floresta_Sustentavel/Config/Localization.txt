@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,portuguese
+treeOakSapling,blocks,block,,,Oak Sapling,Muda de Carvalho
+treeMountainPineSapling,blocks,block,,,Pine Sapling,Muda de Pinheiro
+treeWinterPineSapling,blocks,block,,,Blue Spruce Sapling,Muda de Abeto Azul
+treeBurntWastelandSapling,blocks,block,,,"'Dead' Sapling","Muda 'Morta'"
+treeCactusSapling,blocks,block,,"Cactus 'Sapling'","Muda de Cacto"
