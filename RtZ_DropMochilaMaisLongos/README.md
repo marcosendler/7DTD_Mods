@@ -2,4 +2,4 @@
 
 ## 7 Days 2 Die Modlet
 
-Reduz a taxa de decadência das bolsas de saque de zumbis de 5 para 30 minutos
+Reduz a taxa de decadência das bolsas de saque de zumbis de 5 para 15 minutos

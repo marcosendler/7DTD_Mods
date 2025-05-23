@@ -2,7 +2,7 @@
 <xml>
   <Name value="RtZ_Drop_Mochila_Mais_Longos" />
   <DisplayName value="RtZ Drop de Mochila mais Longos" />
-  <Description value="Reduz a taxa de decadência das bolsas de saque de zumbis de 5 para 30 minutos" />
+  <Description value="Reduz a taxa de decadência das bolsas de saque de zumbis de 5 para 15 minutos" />
   <Author value="Marcos" />
   <Version value="1.4.0" compat="A21,A20,A19,A18,A17" />
   <Website value="" />
