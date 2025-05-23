@@ -1,14 +1,9 @@
-# RtZ Floresta Sustentavel
+# 7 Days to Die Modlet
 
-## 7 Days 2 Die Modlet
-
+## RtZ Floresta Sustentavel
 Remove quase completamente as sementes das árvores, fazendo com que as árvores cortadas voltem a crescer após um atraso
 
-
-# RtZ Drop de Mochila mais Longos
-
-## 7 Days 2 Die Modlet
-
+## RtZ Drop de Mochila mais Longos
 Reduz a taxa de decadência das bolsas de saque de zumbis de 5 para 30 minutos
 
 
@@ -16,7 +11,7 @@ Reduz a taxa de decadência das bolsas de saque de zumbis de 5 para 30 minutos
 ---
 
 
-# Todos os Mods sao Server Side
+# Todos os Mods são Server Side
 
 
 
