@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="RtZ_Boost_Vehicle_Speed" />
+	<DisplayName value="RtZ Boost Vehicle Speed" />
+	<Description value="Ajusta a velocidade dos veiculos" />
+	<Author value="Marcos" />
+	<Version value="1.0.5" />
+	<Website value="" />
+</xml>

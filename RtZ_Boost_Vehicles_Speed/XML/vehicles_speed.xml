@@ -1,0 +1,49 @@
+<!--
+    RtZ Boost Veiculos
+    v1.0.5
+    by Marcos
+    testado na versao 1.4
+
+    vehicles.xml
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+    <!-- velocityMax_turbo: forward, backward, forwardTurbo, backwardTurbo -->
+
+    <!-- Gyrocopter -->
+    <vehicle name="vehicleGyrocopter">
+        <property name="motorTorque_turbo" value="1, 1, 2, 2"/>
+        <property name="velocityMax_turbo" value="9, 9, 15, 9"/>
+    </vehicle>
+
+    <!-- Jokeblimp -->
+    <vehicle name="vehicleJokeblimp">
+        <property name="motorTorque_turbo" value="5000, 5000, 7000, 5000"/>
+        <property name="velocityMax_turbo" value="18, 18, 25, 25"/>
+    </vehicle>
+
+    <!-- Bicycle -->
+    <vehicle name="vehicleBicycle">
+        <property name="motorTorque_turbo" value="500, 180, 750, 180"/>
+        <property name="velocityMax_turbo" value="5, 3, 7, 4"/>
+    </vehicle>
+
+    <!-- Minibike -->
+    <vehicle name="vehicleMinibike">
+        <property name="motorTorque_turbo" value="400, 200, 560, 200"/>
+        <property name="velocityMax_turbo" value="6, 3, 8, 4"/>
+    </vehicle>
+
+    <!-- Motorcycle -->
+    <vehicle name="vehicleMotorcycle">
+        <property name="motorTorque_turbo" value="1400, 500, 2100, 650"/>
+        <property name="velocityMax_turbo" value="7, 4, 9, 5"/>
+    </vehicle>
+
+    <!-- Truck 4x4 -->
+    <vehicle name="vehicleTruck4x4">
+        <property name="motorTorque_turbo" value="3500, 1500, 4500, 2000"/>
+        <property name="velocityMax_turbo" value="9, 5, 12, 6"/>
+    </vehicle>
+</vehicles>
+
